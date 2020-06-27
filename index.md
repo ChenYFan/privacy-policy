@@ -31,7 +31,7 @@
 
 **所有第三方隐私政策内容优先级均大于本篇隐私政策。**
 
-以下网站的隐私政策：[B](http://privacy.baidu.com/detail?id=288)|[G](https://policies.google.com/technologies/product-privacy)|[V](https://leancloud.app/privacy/]|[C](https://www.cloudflare.com/zh-cn/privacypolicy/)|[Q](https://www.qiniu.com/privacy-right)|[D](https://www.jsdelivr.com/privacy-policy)|[T](https://cloud.tencent.com/document/product/301/11470)
+以下网站的隐私政策：[B](http://privacy.baidu.com/detail?id=288)|[G](https://policies.google.com/technologies/product-privacy)|[V](https://leancloud.app/privacy/)|[C](https://www.cloudflare.com/zh-cn/privacypolicy/)|[Q](https://www.qiniu.com/privacy-right)|[D](https://www.jsdelivr.com/privacy-policy)|[T](https://cloud.tencent.com/document/product/301/11470)
 
 以下是详细介绍
 
