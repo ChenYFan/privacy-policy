@@ -31,7 +31,7 @@
 
 **所有第三方隐私政策内容优先级均大于本篇隐私政策。**
 
-以下网站的隐私政策：[B](http://privacy.baidu.com/detail?id=288)|[G](https://policies.google.com/technologies/product-privacy)|[V](https://leancloud.app/privacy/)|[C](https://www.cloudflare.com/zh-cn/privacypolicy/)|[Q](https://www.qiniu.com/privacy-right)|[D](https://www.jsdelivr.com/privacy-policy)|[T](https://cloud.tencent.com/document/product/301/11470)
+以下网站的隐私政策：[B](http://privacy.baidu.com/detail?id=288)\|[G](https://policies.google.com/technologies/product-privacy)\|[V](https://leancloud.app/privacy/)\|[C](https://www.cloudflare.com/zh-cn/privacypolicy/)\|[Q](https://www.qiniu.com/privacy-right)\|[D](https://www.jsdelivr.com/privacy-policy)\|[T](https://cloud.tencent.com/document/product/301/11470)
 
 以下是详细介绍
 
@@ -43,7 +43,7 @@ Cookies 是服务器发送到用户浏览器并保存在本地的一小块数据
 
 ### 目前已知收集的是：
 
-**B|G|L**
+**B\|G\|L**
 
 ### 用途：
 
@@ -73,7 +73,7 @@ CloudFlare拥有邮件地址混淆[JS](/cdn-cgi/scripts/5c5dd728/cloudflare-stat
 
 ### 目前已知收集的是
 
-**B|G|Q|L|C|D|Q|T**
+**B\|G\|Q\|L\|C\|D\|Q\|T**
 
 ### 用途
 
@@ -85,7 +85,7 @@ CloudFlare拥有邮件地址混淆[JS](/cdn-cgi/scripts/5c5dd728/cloudflare-stat
 
 ### 目前已知收集的是
 
-**B|G|Q|L|C|D|Q|T**
+**B\|G\|Q\|L\|C\|D\|Q\|T**
 
 ### 用途
 
